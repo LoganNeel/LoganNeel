@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats-gamma-two-60.vercel.app/api/card" alt="My Stats!" />
+  <img src="https://github-readme-stats-gamma-two-60.vercel.app/api/card" alt="My Stats!" href="https://github-readme-stats-gamma-two-60.vercel.app/api/cron />
 </p>
 
 <p align="center">
